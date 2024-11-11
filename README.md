@@ -55,4 +55,4 @@ python3 ask_data.py
 ---
 
 Desarrollado por Tobias Rímoli.
-Contacto: tobiasrimoli@protonmail.com
+Contacto: tobiasrimoli@duck.com
