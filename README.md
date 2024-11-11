@@ -16,7 +16,7 @@ Se puede descargar la base de datos pública, difundida por el organismo oficial
 
 ## AFIP file
 
-![image](https://github.com/user-attachments/assets/6f4e5cfe-c721-4080-9ecf-a5d018f1ba7b)
+![image](https://github.com/user-attachments/assets/ee1f0ba3-07c0-4d71-a2c1-d894bed09d2b)
 
 
 ## Output file
