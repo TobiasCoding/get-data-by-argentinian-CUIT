@@ -3,7 +3,14 @@ Se puede descargar la base de datos pública, difundida por el organismo oficial
 
 ## Funcionamiento
 
-![image](https://github.com/user-attachments/assets/76a717a5-6f0a-41a8-8c0f-1bd658e02925)
+### Ejecución de process_data.py
+
+![image](https://github.com/user-attachments/assets/bc0f3f88-2ef8-4f9d-bdc0-d5f29631253d)
+
+### Ejecución de get_data.py
+
+![image](https://github.com/user-attachments/assets/74f6c6ae-49ed-44bb-b443-a2d46af84536)
+![image](https://github.com/user-attachments/assets/64f66723-65e5-4c01-8f44-87530c1e8d24)
 
 
 ## AFIP file
@@ -18,18 +25,17 @@ Se puede descargar la base de datos pública, difundida por el organismo oficial
 
 ## Size
 
-![image](https://github.com/user-attachments/assets/1d5615e4-b54c-4b1b-a4da-9f61489cc0d1)
-
+![image](https://github.com/user-attachments/assets/5ca500ef-43ff-49c6-be46-cdd75b37ff6b)
 
 ## Referencias
 ![image](https://github.com/user-attachments/assets/7a381ca3-afa3-44a4-86d6-bdfca5a048bf)
 
 ## Uso
-1. 
+1. Descargar el repositorio
 ```bash
 git clone https://github.com/TobiasCoding/get-data-by-argentinian-CUIT.git
 ```
-2. 
+2. Ir al directorio del repositorio
 ```
 cd get-data-by-argentinian-CUIT
 ```
@@ -38,15 +44,11 @@ cd get-data-by-argentinian-CUIT
 ```bash
 unzip apellidoNombreDenominacion.zip
 ```
-3.
-```bash
-mv apellidoNombreDenominacion/utlfile/padr/*.tmp .
-```
-4. 
+4. Generar el archivo de base de datos (una única vez)
 ```bash
 python3 process_data.py
 ```
-5. 
+5. Ejecutar el script (las veces que deseemos)
 ```bash
 python3 ask_data.py
 ```
