@@ -5,15 +5,13 @@ Se puede descargar la base de datos pública, difundida por el organismo oficial
 
 ### Ejecución de process_data.py
 ![image](https://github.com/user-attachments/assets/8ff88475-ed06-4af3-80b2-4d81bd6b8dc2)
-
-![image](https://github.com/user-attachments/assets/b83ba589-955c-4a3c-88e6-603f07a6a3a4)
-
+![image](https://github.com/user-attachments/assets/ac8e71f1-04b5-4417-89ee-d3d94b860424)
 
 ### Ejecución de get_data.py
 
 ![image](https://github.com/user-attachments/assets/9629ad01-1312-4d00-975a-90fd333ce969)
 
-![image](https://github.com/user-attachments/assets/64f66723-65e5-4c01-8f44-87530c1e8d24)
+![image](https://github.com/user-attachments/assets/b83ba589-955c-4a3c-88e6-603f07a6a3a4)
 
 
 ## AFIP file
