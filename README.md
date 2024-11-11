@@ -4,8 +4,10 @@ Se puede descargar la base de datos pública, difundida por el organismo oficial
 ## Funcionamiento
 
 ### Ejecución de process_data.py
+![image](https://github.com/user-attachments/assets/8ff88475-ed06-4af3-80b2-4d81bd6b8dc2)
 
-![image](https://github.com/user-attachments/assets/bc0f3f88-2ef8-4f9d-bdc0-d5f29631253d)
+![image](https://github.com/user-attachments/assets/512d1cb0-ef67-4e72-a835-a9283badce2a)
+
 
 ### Ejecución de get_data.py
 
