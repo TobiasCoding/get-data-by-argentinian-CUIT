@@ -14,14 +14,14 @@ Se puede descargar la base de datos pública, difundida por el organismo oficial
 ![image](https://github.com/user-attachments/assets/b83ba589-955c-4a3c-88e6-603f07a6a3a4)
 
 
-## AFIP file
+## AFIP file (data downloaded)
 
 ![image](https://github.com/user-attachments/assets/ee1f0ba3-07c0-4d71-a2c1-d894bed09d2b)
 
 
-## Output file
+## Output file (argentinians_data.json)
 
-![image](https://github.com/user-attachments/assets/c0256713-a430-4642-be1f-6f175d75471e)
+![image](https://github.com/user-attachments/assets/257d26bc-7722-4d42-a1d1-8a3ba9774eae)
 
 
 ## Size
