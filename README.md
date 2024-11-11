@@ -1,5 +1,5 @@
-Este simple script permite procesar la base de datos de contribuyentes de impuestos nacionales registrados en AFIP, para poder realizar facilmente consultas según el número de CUIT.
-Se puede descargar la base de datos pública, difundida por el organismo oficial desde la página oficial: [AFIP constancia de inscripción a impuestos](https://www.afip.gob.ar/genericos/cInscripcion/archivoCompleto.asp)
+Este simple script permite procesar la base de datos de contribuyentes de impuestos nacionales registrados en AFIP, para poder realizar facilmente consultas según la denominación del contribuyente o el número de CUIT.
+Se puede descargar la base de datos pública, difundida por el organismo oficial desde su sitio web: [AFIP constancia de inscripción a impuestos](https://www.afip.gob.ar/genericos/cInscripcion/archivoCompleto.asp)
 
 ## Funcionamiento
 
@@ -39,7 +39,7 @@ git clone https://github.com/TobiasCoding/get-data-by-argentinian-CUIT.git
 ```
 cd get-data-by-argentinian-CUIT
 ```
-2. Descargar archivo en formato ZIP de https://www.afip.gob.ar/genericos/cInscripcion/archivoCompleto.asp y guardar en el mismo directorio del script
+2. Descargar archivo en formato ZIP de https://www.afip.gob.ar/genericos/cInscripcion/archivoCompleto.asp y guardar en el mismo directorio del repositorio descargado
 3. Descomprimir el archivo descargado
 ```bash
 unzip apellidoNombreDenominacion.zip
