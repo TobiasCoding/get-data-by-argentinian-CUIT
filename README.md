@@ -52,3 +52,7 @@ python3 process_data.py
 ```bash
 python3 ask_data.py
 ```
+---
+
+Desarrollado por Tobias Rímoli.
+Contacto: tobiasrimoli@protonmail.com
